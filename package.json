@@ -1,0 +1,16 @@
+{
+  "name": "merchant-dashboard",
+  "version": "0.0.1",
+  "description": "Dashboard Stylesheet",
+  "scripts": {
+    "build": ""
+  },
+  "author": "Oleg Shalygin",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oshalygin/dashboard-styles.git"
+  }
+}
