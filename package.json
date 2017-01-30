@@ -1,6 +1,6 @@
 {
   "name": "dashboard-styles",
-  "version": "1.0.2",
+  "version": "2.0.1",
   "description": "Dashboard Stylesheet",
   "scripts": {
     "build": "cleancss -o ./dist/dashboard.min.css ./src/dashboard.css --source-map-inline-sources"
