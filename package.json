@@ -1,14 +1,16 @@
 {
   "name": "merchant-dashboard",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Dashboard Stylesheet",
   "scripts": {
-    "build": ""
+    "build": "cleancss -o ./dist/dashboard.min.css ./src/dashboard.css --source-map-inline-sources"
   },
   "author": "Oleg Shalygin",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "clean-css-cli": "^4.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/oshalygin/dashboard-styles.git"
